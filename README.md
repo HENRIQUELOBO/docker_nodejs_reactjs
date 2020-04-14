@@ -20,4 +20,4 @@ vai aparecer a mensagem `20200413202514-create-users: migrated (3.031s)`;
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE] (LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
