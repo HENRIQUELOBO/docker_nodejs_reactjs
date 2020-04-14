@@ -4,6 +4,14 @@
 Esse projeto é a parte estrutural de um sistema de login ou autenticação para uso,  usando docker para criar os ambientes, ReactJs de frontend
 , Nodejs para criar a API, MYSQL base de dados.
 
+  ## Requisitos
+  - É necessário ter instalado os seguintes modulos:
+  
+    * Docker
+    * Docker-compose
+    * npm
+    * npx
+
 ## Instalação e execução
 Baixe o pacote 
 
