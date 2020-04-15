@@ -1,12 +1,14 @@
 # Tela de Login com Docker, ReactJs e NodeJS
 
 
-Esse projeto é a parte estrutural de um sistema de login ou autenticação para uso, usando docker para criar os ambientes(Server, Client, MYSQL, Node)
+Esse projeto é a parte estrutural de um sistema com login, nesse projeto já está pronto o servidor, cliente, base de dados,
+e ambiente nodeJS.
 
-
-  - ReactJs - Frontend. 
-  - Nodejs - Backend.
-  - MYSQL - Base de dados.
+- Tecnologias
+  * ReactJs - Frontend. 
+  * Nodejs - Backend.
+  * MYSQL - Base de dados.
+  * Docker - Criação dos ambientes(Server, Client, MYSQL, Node).
 
 ## Requisitos
 - É necessário ter instalado os seguintes modulos:
