@@ -4,11 +4,11 @@
 Esse projeto é a parte estrutural de um sistema com login, nesse projeto já está pronto o servidor, cliente, base de dados,
 e ambiente nodeJS.
 
-- Tecnologias
-  * ReactJs - Frontend. 
-  * Nodejs - Backend.
-  * MYSQL - Base de dados.
-  * Docker - Criação dos ambientes(Server, Client, MYSQL, Node).
+## Tecnologias
+   * ReactJs - Frontend. 
+   * Nodejs - Backend.
+   * MYSQL - Base de dados.
+   * Docker - Criação dos ambientes(Server, Client, MYSQL, Node).
 
 ## Requisitos
 - É necessário ter instalado os seguintes modulos:
