@@ -17,6 +17,7 @@ e ambiente nodeJS.
   * Docker-compose
   * npm
   * npx
+  * git(opcional)
 
 ## Instalação e execução
 Baixe o pacote 
