@@ -11,7 +11,6 @@ import {
     Logo,
     GlobalStyle,
     Container,
-    DivGeral,
     Link
 } from '../home/styles';
 
