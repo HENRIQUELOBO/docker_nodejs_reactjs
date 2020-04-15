@@ -24,7 +24,7 @@ Baixe o pacote
 
 1. Faça um clone desse repositório 
   `git clone https://github.com/HENRIQUELOBO/login-react-docker.git` 
-  ou baixe diretamente por aqui.
+  ou baixe diretamente por aqui - [BAIXAR](https://codeload.github.com/HENRIQUELOBO/login-react-docker/zip/master).
 2. Entre na pasta rodando `cd login-react-docker/`.
 3. Entre na pasta rodando `cd server/` para rodar o comando `npm install`.
 3. Rode `docker-compose up` para instalar as dependências e criar/iniciar os ambientes, 
