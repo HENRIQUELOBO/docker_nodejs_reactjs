@@ -13,8 +13,8 @@ e ambiente nodeJS.
 ## Requisitos
 - É necessário ter instalado os seguintes modulos:
 
-  * Docker
-  * Docker-compose
+  * Docker - vesão 19+
+  * Docker-compose - versão 1.26 - guia de instalação https://docs.docker.com/compose/install/
   * npm
   * npx
   * git(opcional)
