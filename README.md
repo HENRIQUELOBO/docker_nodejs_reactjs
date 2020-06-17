@@ -26,7 +26,7 @@ Baixe o pacote
   `git clone https://github.com/HENRIQUELOBO/login-react-docker.git` 
   ou baixe diretamente por aqui - [BAIXAR](https://codeload.github.com/HENRIQUELOBO/login-react-docker/zip/master).
 2. Entre na pasta rodando `cd login-react-docker/`.
-3. Rode `sudo docker-compose up` para instalar as dependências e criar/iniciar os ambientes, 
+3. Rode `sudo docker-compose up` para iniciar o servidor, criar/iniciar os ambientes, 
 aguarde até que apareça os serviços em execução.
 4. Rode `npx sequelize db:migrate` para executar a migrations da base de dados, se deu tudo certo
 vai aparecer a mensagem `20200413202514-create-users: migrated (3.031s)`.
