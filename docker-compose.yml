@@ -10,7 +10,9 @@ services:
         MYSQL_ROOT_PASSWORD: 20203030
         MYSQL_DATABASE: db_default
     ports:
-        - 3306:3306
+        - 33060:33060
+    expose:
+        - 33060
   server:
     build:
       context: ./server/
@@ -27,8 +29,8 @@ services:
       - DB_USERNAME=root
       - DB_PASSWORD=20203030
       - DB_DATABASE=db_default
-      - DB_PORT=3306
-      - WAIT_HOSTS=mysql:3306
+      - DB_PORT=33060
+      - WAIT_HOSTS=mysql:33060
   client:
     build:
       context: ./client/
