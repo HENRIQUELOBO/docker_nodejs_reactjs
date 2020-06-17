@@ -35,7 +35,7 @@ class Home extends React.Component {
 
                 <Logo><img src={logo} alt="LOGO GESTÃO DE CLÍNICAS" width="140" /></Logo>
 
-                <Link onClick={this.deslogar}>Home</Link>
+                <Link onClick={this.deslogar}>Sair</Link>
 
             </Container>
         )
